@@ -1,0 +1,1 @@
+My first ever end-to-end Data Science Project. Throughout the notebook, many techniques that have learnt from the book Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow were used. I recognise that I have my project is not up to par yet, however it is a work in progress!
