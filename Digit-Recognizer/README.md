@@ -1,0 +1,2 @@
+This is my Computer Vision project on the MNIST dataset. I focused on exploring transfer learning techniques with the pre-trained RESNET50 model founded by Kaiming He, Xiangyu Zhang, Shaoqing Ren, and Jian Sun. I first trained the head of the model that I created, 
+then I started to train some of the top layers of the RESNET50 base model, by unfreezing a few of the top layers. All in all I was able to achieve a training accuracy of 0.9718 and a validation accuracy of 0.9716. This allowed me to achieve a test accuracy of 0.96639.
